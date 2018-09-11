@@ -22,8 +22,13 @@ int rightShift(int, int);
 This function takes in two ints and right shifts the first int by the second int.
 
 int bitwiseAND(int, int);
-
+This function takes in two ints and bitwise ANDs the two ints.
 
 int bitwiseOR(int, int);
+This function takes in two ints and bitwise ORs the two ints.
+
 int bitwiseXOR(int, int);
+This function takes in two ints and bitwise XORs the two ints.
+
 int bitwiseInverse(int, int);
+This function takes in two ints and only bitwise inverts the first int.
